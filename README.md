@@ -20,5 +20,9 @@ Describes the apollo server cache issue with an example.
 
 # Screenshots/ Results
 
+- ![Screenshot from 2021-05-25 11-13-43](https://user-images.githubusercontent.com/13742679/119448837-7ea8f480-bd4f-11eb-9504-3f73e3602f8f.png)
+- When the memosized results are clear (Expected result)
+- ![Screenshot from 2021-05-25 11-13-49](https://user-images.githubusercontent.com/13742679/119449029-b7e16480-bd4f-11eb-8647-a95512f1d26b.png)
+
 
 
